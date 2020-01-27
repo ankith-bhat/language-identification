@@ -1,0 +1,3 @@
+- Representing a word with constant dimensionality
+- We would like to represent all words using the common 26 english letters so the network learns phonetically, but this
+introduces another problem of normalizing the text

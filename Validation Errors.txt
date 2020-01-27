@@ -1,0 +1,52 @@
+SimpleRNN (10 epochs, batch size 10):
+
+3 Hidden Units:
+Training Loss: 2.1143		Training Accuracy: 0.2481
+Validation Loss: 2.0970		Validation Accuracy: 0.2551
+
+6 Hidden Units:
+Training Loss: 2.1476		Training Accuracy: 0.2291
+Validation Loss: 2.1542		Validation Accuracy: 0.2274
+
+9 Hidden Units:
+Training Loss: 2.1465		Training Accuracy: 0.2277
+Validation Loss: 2.1738		Validation Accuracy: 0.2397
+
+
+12 Hidden Units:
+Training Loss: 2.1041		Training Accuracy: 0.2497
+Validation Loss: 2.1050		Validation Accuracy: 0.2407
+
+15 Hidden Units:
+Training Loss: 1.6498		Training Accuracy: 0.3824
+Validation Loss: 1.6565		Validation Accuracy: 0.3632
+
+18 Hidden Units:
+Training Loss: 1.8109		Training Accuracy: 0.3533
+Validation Loss: 1.7508		Validation Accuracy: 0.3498
+
+LSTM (20 epochs, batch size 20):
+
+3 Hidden Units:
+Training Loss: 1.7634		Training Accuracy: 0.3215
+Validation Loss: 1.7651		Validation Accuracy: 0.3580
+
+6 Hidden Units:
+Training Loss: 1.6007		Training Accuracy: 0.4160
+Validation Loss: 1.5662		Validation Accuracy: 0.4321
+
+9 Hidden Units:
+Training Loss: 1.3851		Training Accuracy: 0.5099
+Validation Loss: 1.3934		Validation Accuracy: 0.5021
+
+12 Hidden Units:
+Training Loss: 1.3201		Training Accuracy: 0.5370
+Validation Loss: 1.3037		Validation Accuracy: 0.5391
+
+15 Hidden Units:
+Training Loss: 1.2417		Training Accuracy: 0.5730
+Validation Loss: 1.2828		Validation Accuracy: 0.5473
+
+18 Hidden Units:
+Training Loss: 1.5044		Training Accuracy: 0.4532
+Validation Loss: 1.4429		Validation Accuracy: 0.4650
