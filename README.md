@@ -1,8 +1,11 @@
-# csci5512_project
-Lucas Lenar - lenar067
-Ankith Bhat - bhatx050
+# Language Identification
 
-This is the CSci5512 project for the authors listed above.
+Authors:
+-
+- Lucas Lenar
+- Ankith Bhat
+
+Purpose: A Machine Learning Algorithm to identify what words belong to what languages
 
 How run our project:
 Please install the following package for web parsing:
